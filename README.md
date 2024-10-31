@@ -28,6 +28,8 @@ RGB Led: W2812B
 Speaker
 PCB screw terminal
 
+Wiegand S20 ID [T9-EM-W](https://fr.aliexpress.com/item/1005006042286388.html)
+
 ### 2. Knowledge
 
 ESPHome language [Here](https://esphome.io/)<BR>
@@ -53,4 +55,6 @@ HomeAssistant : Automation<BR>
 ## Fritzing View
 
 <b style='color:red'>Warning ! Use a HLK-5M12 it is 12V and 5 Watts</b>
+
+![alt text](https://raw.githubusercontent.com/beckynet/ESPHome-Access-Control/master/Fritzing/Schematic.png)
 
