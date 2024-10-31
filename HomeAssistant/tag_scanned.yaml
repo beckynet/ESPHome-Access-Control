@@ -1,0 +1,42 @@
+alias: Tag Scanned
+description: ""
+triggers:
+  - trigger: event
+    event_type: tag_scanned
+conditions: []
+actions:
+  - choose:
+      - conditions:
+          - condition: template
+            value_template: "{{ trigger.event.data.tag_id in tags }}"
+        sequence:
+          - variables:
+              tag_description: "{{ tags[trigger.event.data.tag_id].description }}"
+              tag_name: "{{ trigger.event.data.name }}"
+              tag_device: "{{ trigger.event.data.device_id }}"
+          - action: notify.notify
+            metadata: {}
+            data:
+              message: Tag Known, It is {{ tag_description }} {{ tag_name }} {{ tag_device }}
+              title: Tag Scanned
+      - conditions:
+          - condition: not
+            conditions:
+              - condition: template
+                value_template: "{{ trigger.event.data.tag_id in tags }}"
+        sequence:
+          - action: notify.notify
+            metadata: {}
+            data:
+              message: Tag unknown scanned !
+              title: Tag Scanned
+variables:
+  # Autorized Tags
+  tags:
+    1cdbd04e-7143-4be1-a1cc-7cffdbee8487:
+      description: Tag Red
+    3a96a336-c7cf-4dac-908d-5e26f219f410:
+      description: Tag Blue
+    3004559:
+      description: Tag Green
+mode: single
