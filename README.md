@@ -42,9 +42,13 @@ Fritzing : Download Fritzing [Here](http://fritzing.org/download/) to view conne
 Gerber : If you want to make a beautifull PCB. I'm not sponsorized but [this one](https://aisler.net) is cheap.
 HomeAssistant : Automation<BR>
 
+## Wiegand Keypad and RFID used
+
+![alt text](https://raw.githubusercontent.com/beckynet/ESPHome-Access-Control/master/Pictures/Wiegand_S20_ID.png)
+
 ## PCB View Real Size 110 x 70 mm
 
-
+![alt text](https://raw.githubusercontent.com/beckynet/ESPHome-Access-Control/master/Pictures/CI-Finish.png)
 
 ## Fritzing View
 
