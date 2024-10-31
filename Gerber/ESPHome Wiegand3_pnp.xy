@@ -1,0 +1,29 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=ESPHome Wiegand3
+# Date=16:00:47
+# CreatedBy=Fritzing 1.0.4.2024-10-07.CD-2088-0-a8c6ef7c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+J2,";;;;;;;;","THT",3827.56,1335.17,0,Top,THT
+J1,";;;;;;;;","THT",456.792,2333.44,180,Top,THT
+LED1,";;;;0.030A;;;;","5 mm [THT]",2096.79,1911.23,180,Top,THT
+Via2,";;;;;;;;","",1196.79,2436.87,0,Top,MANUAL
+Active Buzzer,";;;;;;;;","",2996.04,2388.46,-90,Top,MANUAL
+Via1,";;;;;;;;","",2096.79,2436.87,0,Top,MANUAL
+W2812B,";;;;;;;;","smd 2812b",2100.34,774.606,90,Top,SMT
+C2,";0.47mF;;16V;;;;;","100 mil [THT, electrolytic]",2096.79,1286.87,-90,Top,THT
+HLK-5M12,";;;;;;;;","",551.935,1198.7,90,Top,MANUAL
+R1,"150;;;;;0.25W;;;","THT",2404.79,1886.87,-90,Top,THT
+L7805CV,";;;5V;;;;;","78xxl",1597.13,1370.85,0,Top,SMT
+WeMos D1 Mini1,";;;;;;;;","",3046.81,1323.99,180,Top,MANUAL
+C1,";0.47mF;;20V;;;;;","100 mil [THT, electrolytic]",1196.79,1286.87,-90,Top,THT
