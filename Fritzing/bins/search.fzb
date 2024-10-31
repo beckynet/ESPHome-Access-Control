@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="1.0.4.2024-10-07.CD-2088-0-a8c6ef7c" icon="Search.png" search="ESP">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="WiFly_Shield-v17" modelIndex="85524527" path="C:/Program Files/Fritzing/fritzing-parts/core/WiFly_Shield-v17.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EspruinoPico" modelIndex="85524528" path="C:/Program Files/Fritzing/fritzing-parts/core/EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-QRB1114-2" modelIndex="85524529" path="C:/Program Files/Fritzing/fritzing-parts/core/sparkfun-sensors-qrb1114-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266-Thing-Dev" modelIndex="85524530" path="C:/Program Files/Fritzing/fritzing-parts/core/ESP8266-Thing-Dev.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d63bf67236bb974ced6c30c1d9f152a9_18" modelIndex="85524531" path="C:/Program Files/Fritzing/fritzing-parts/core/MPX2010 pressure sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HIH-4030_Breakout-v10" modelIndex="85524532" path="C:/Program Files/Fritzing/fritzing-parts/core/HIH-4030_Breakout-v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ArduPilotMega_v15" modelIndex="85524533" path="C:/Program Files/Fritzing/fritzing-parts/core/ArduPilotMega_v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Esplora" modelIndex="85524534" path="C:/Program Files/Fritzing/fritzing-parts/core/Arduino_Esplora.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13" modelIndex="85524535" path="C:/Program Files/Fritzing/fritzing-parts/core/FTDI Basic-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_3.3v" modelIndex="85524536" path="C:/Program Files/Fritzing/fritzing-parts/core/FTDI Basic-v13_3.3v.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_lily" modelIndex="85524537" path="C:/Program Files/Fritzing/fritzing-parts/core/FTDI Basic-v13_lily.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_End_view" modelIndex="85524538" path="C:/Program Files/Fritzing/fritzing-parts/core/Dagu DGServo 9g (End view).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SHT1x-Breakout" modelIndex="85524539" path="C:/Program Files/Fritzing/fritzing-parts/core/SHT1x-Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="huzzah_esp8266" modelIndex="85524540" path="C:/Program Files/Fritzing/fritzing-parts/core/huzzah_esp8266.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Heltec_WiFi_LoRa_32_V2" modelIndex="85524541" path="C:/Program Files/Fritzing/fritzing-parts/core/Heltec_WiFi_LoRa_32_V2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_male_headers_above_fix" modelIndex="85524542" path="C:/Program Files/Fritzing/fritzing-parts/core/WeMos-D1-mini-male-headers-above_fixed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="bf73a00d2ecd04be25675ebfb2d130c0" modelIndex="85524543" path="C:/Program Files/Fritzing/fritzing-parts/core/Humidity_Sensor_SHT15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Gizwits_WiFi_Witty_ESP_12F" modelIndex="85524544" path="C:/Program Files/Fritzing/fritzing-parts/core/Gizwits_WiFi_Witty_ESP_12F.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_fixed" modelIndex="85524545" path="C:/Program Files/Fritzing/fritzing-parts/core/WeMos-D1-mini-female-headers-above_fixed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPX4250AP_60bfc397c54bae166e67461339be2ca8_4" modelIndex="85524546" path="C:/Program Files/Fritzing/fritzing-parts/core/MPX4250AP pressure sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266_module_antenna" modelIndex="85524547" path="C:/Program Files/Fritzing/fritzing-parts/core/ESP8266_module.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Amica_NodeMCU_DEVKIT_1.0" modelIndex="85524548" path="C:/Program Files/Fritzing/fritzing-parts/core/Amica_NodeMCU_DEVKIT_1.0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GPSShield-v15" modelIndex="85524549" path="C:/Program Files/Fritzing/fritzing-parts/core/GPSShield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Soil_Moisture_Sensor" modelIndex="85524550" path="C:/Program Files/Fritzing/fritzing-parts/core/SparkFun_Soil_Moisture_Sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="lhi958" modelIndex="85524551" path="C:/Program Files/Fritzing/fritzing-parts/core/Lhi958.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266_7" modelIndex="85524552" path="C:/Program Files/Fritzing/fritzing-parts/core/ESP8266_7.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+    </instances>
+</module>

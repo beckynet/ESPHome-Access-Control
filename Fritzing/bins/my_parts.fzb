@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="1.0.4.2024-10-07.CD-2088-0-a8c6ef7c" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="Buzzer_b67b075ba9ba2ad91141b50600ab2d7b_1" modelIndex="85523661" path="C:/Users/olivi/OneDrive/Documents/Fritzing/parts/user/Buzzer_b67b075ba9ba2ad91141b50600ab2d7b_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_683b62db06dd54dd80bad91d5979a5b7_2" modelIndex="85523666" path="C:/Users/olivi/OneDrive/Documents/Fritzing/parts/user/prefix0000_683b62db06dd54dd80bad91d5979a5b7_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Copper1BlockerModuleID" modelIndex="85526786" path=":/resources/parts/core/blocker.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
